@@ -1,5 +1,3 @@
-package daniel;
-
 import java.util.Scanner;
 
 public class MainEstatisticaFinal {
